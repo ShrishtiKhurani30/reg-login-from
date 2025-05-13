@@ -19,7 +19,7 @@ const Registration = ({ setCurrentStatus }) => {
             It only takes a miniute to register and get started!
           </p>
 
-          <form>
+          <form className="justify-center items-center">
             <div className="flex flex-col">
               <div className="py-2 relative">
                 <div className="absolute top-5 left-1 px-2 flex items-center justify-center">
